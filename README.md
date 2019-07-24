@@ -1,2 +1,5 @@
 # hello-world
-just another 
+
+Hi Humans!
+
+ZzyHope here,I like python so much.
